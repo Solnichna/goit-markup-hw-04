@@ -434,6 +434,8 @@ img {
 }
 .container-footer-logo{
     margin-right: 120px;
+    display: flex;
+    align-items: baseline;
 }
 
 .footer-logo {
