@@ -480,7 +480,7 @@ img {
     gap: 16px;
 }
 
-.social-icon-footer:hover,
-.social-icon-footer:focus {
+.social-link-li:hover,
+.social-link-li:focus {
     background-color: #31d0aa;
 }
